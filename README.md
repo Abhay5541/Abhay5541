@@ -26,10 +26,10 @@
 
 <div align="left">
   <h2 align="left">Socials</h2>
- <a href="[https://www.example.com](https://www.instagram.com/_abhyyy_._/)">
+ <a href="https://www.instagram.com/_abhyyy_._/">
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </a>
- <a href=" <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />">
+ <a href="https://www.linkedin.com/in/abhay-prasad-5339bb29a/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 </div>
