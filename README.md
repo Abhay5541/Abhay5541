@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋! I’m Abhay.</h2>
 <h2 align="left">I love creating new things ⚡<br>Turning imagination into reality 🚀</h2>
 
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=ecf05e47sl8792rszae40ur2o6ef5qldxloc2i0j4oza4nmk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
 
 <div align="left">
   <h2 align="left">Tech Stack</h2>
@@ -22,16 +20,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
 
 <div align="left">
   <h2 align="left">Socials</h2>
  <a href="https://www.instagram.com/_abhyyy_._/">
-   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
 </a>
  <a href="https://www.linkedin.com/in/abhay-prasad-5339bb29a/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
 </a>
 </div>
 
-###
