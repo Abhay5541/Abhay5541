@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋! I’m Abhay.</h2>
-<br>
 <h2 align="left">I love creating new things ⚡<br>Turning imagination into reality 🚀</h2>
 
 ###
@@ -9,6 +8,7 @@
 ###
 
 <div align="left">
+  <h2 align="left">Tech Stack</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -25,6 +25,7 @@
 ###
 
 <div align="left">
+  <h2 align="left">Socials</h2>
  <a href="[https://www.example.com](https://www.instagram.com/_abhyyy_._/)">
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </a>
